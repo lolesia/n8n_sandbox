@@ -49,9 +49,3 @@ if playlist_data:
     random_track = get_random_song_python(playlist_data)
     print("Выпала случайная песня:")
     print(json.dumps(random_track, indent=4, ensure_ascii=False))
-
-def print_text(text):
-    print(text)
-
-# использование
-print_text("Test!")
