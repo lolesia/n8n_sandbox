@@ -1,0 +1,70 @@
+{
+    "artists": {
+        "John_Lennon": [
+            {
+                "song": "Imagine",
+                "year": 1971
+            },
+            {
+                "song": "Woman",
+                "year": 1980
+            },
+            {
+                "song": "(Just Like) Starting Over",
+                "year": 1980
+            },
+            {
+                "song": "Jealous Guy",
+                "year": 1971
+            },
+            {
+                "song": "Happy Xmas (War Is Over)",
+                "year": 1971
+            }
+            ],
+            "Michael_Jackson": [
+            {
+                "song": "Thriller",
+                "year": 1982
+            },
+            {
+                "song": "Billie Jean",
+                "year": 1982
+            },
+            {
+                "song": "Smooth Criminal",
+                "year": 1987
+            },
+            {
+                "song": "Bad",
+                "year": 1987
+            },
+            {
+                "song": "Man In The Mirror",
+                "year": 1987
+            }
+            ],
+            "Queen": [
+            {
+                "song": "Bohemian Rhapsody",
+                "year": 1975
+            },
+            {
+                "song": "Don't Stop Me Now",
+                "year": 1978
+            },
+            {
+                "song": "We Will Rock You",
+                "year": 1977
+            },
+            {
+                "song": "The Show Must Go On",
+                "year": 1991
+            },
+            {
+                "song": "Another One Bites the Dust",
+                "year": 1980
+            }
+            ]
+        }
+    }
