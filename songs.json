@@ -3,111 +3,136 @@
         "John_Lennon": [
             {
                 "song": "Imagine",
-                "year": 1971
+                "year": 1971,
+                "awards": ["Grammy Hall of Fame", "Rock and Roll Hall of Fame's 500 Songs"]
             },
             {
                 "song": "Woman",
-                "year": 1980
+                "year": 1980,
+                "awards": []
             },
             {
                 "song": "(Just Like) Starting Over",
-                "year": 1980
+                "year": 1980,
+                "awards": ["Gold Record"]
             },
             {
                 "song": "Jealous Guy",
-                "year": 1971
+                "year": 1971,
+                "awards": []
             },
             {
                 "song": "Happy Xmas (War Is Over)",
-                "year": 1971
+                "year": 1971,
+                "awards": []
             }
             ],
             "Michael_Jackson": [
             {
                 "song": "Thriller",
-                "year": 1982
+                "year": 1982,
+                "awards": ["Grammy Award", "MTV VMA", "Diamond certification"]
             },
             {
                 "song": "Billie Jean",
-                "year": 1982
+                "year": 1982,
+                "awards": ["Grammy Award", "BRIT Award"]
             },
             {
                 "song": "Smooth Criminal",
-                "year": 1987
+                "year": 1987,
+                "awards": []
             },
             {
                 "song": "Bad",
-                "year": 1987
+                "year": 1987,
+                "awards": ["Gold certification"]
             },
             {
                 "song": "Man In The Mirror",
-                "year": 1987
+                "year": 1987,
+                "awards": ["Grammy Nomination"]
             }
             ],
             "Queen": [
             {
                 "song": "Bohemian Rhapsody",
-                "year": 1975
+                "year": 1975,
+                "awards": ["Grammy Hall of Fame", "BRITs Best Single", "Diamond certification"]
             },
             {
                 "song": "Don't Stop Me Now",
-                "year": 1978
+                "year": 1978,
+                "awards": []
             },
             {
                 "song": "We Will Rock You",
-                "year": 1977
+                "year": 1977,
+                "awards": ["Grammy Hall of Fame"]
             },
             {
                 "song": "The Show Must Go On",
-                "year": 1991
+                "year": 1991,
+                "awards": []
             },
             {
                 "song": "Another One Bites the Dust",
-                "year": 1980
+                "year": 1980,
+                "awards": ["Grammy Nomination"]
             }
             ],
             "Pink_Floyd": [
             {
                 "song": "Wish You Were Here",
-                "year": 1975
+                "year": 1975,
+                "awards": []
             },
             {
                 "song": "Another Brick In the Wall, Pt.2",
-                "year": 1979
+                "year": 1979,
+                "awards": ["Grammy Nomination", "Gold certification"]
             },
             {
                 "song": "Comfortably Numb",
-                "year": 1979
+                "year": 1979,
+                "awards": []
             },
             {
                 "song": "Money",
-                "year": 1973
+                "year": 1973,
+                "awards": ["Gold certification"]
             },
             {
                 "song": "Time",
-                "year": 1973
+                "year": 1973,
+                "awards": []
             }
             ],
         "Deep_Purple": [
             {
                 "song": "Smoke On The Water",
-                "year": 1972
+                "year": 1972,
+                "awards": ["Grammy Hall of Fame"]
             },
             {
                 "song": "Highway Star",
-                "year": 1972
+                "year": 1972,
+                "awards": []
             },
             {
                 "song": "Child In Time",
-                "year": 1970
+                "year": 1970,
+                "awards": []
             },
             {
                 "song": "Hush",
-                "year": 1968
+                "year": 1968,
+                "awards": ["Gold certification"]
             },
             {
                 "song": "Perfect Strangers",
-                "year": 1984
+                "year": 1984,
+                "awards": []
             }
             ]
         }

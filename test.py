@@ -20,6 +20,20 @@ def load_data_from_file(file_path):
         print(f"Error: Invalid JSON format in file '{file_path}'.")
         return None
 
+def check_award_status(track):
+    """
+    Checks if a song has any awards and returns a descriptive string.
+    """
+    awards = track.get('awards')
+    
+    if awards is None:
+        return "Info: Awards data is missing for this track."
+    
+    if isinstance(awards, list) and len(awards) > 0:
+        count = len(awards)
+        return f"🏆 Awarded Track: This song has {count} listed award(s) including: {', '.join(awards[:2])}..." 
+    return "💡 Note: This track has no listed awards."
+
 def get_random_song_python(data):
     """
     Selects a random song from the loaded data dictionary.
@@ -32,7 +46,7 @@ def get_random_song_python(data):
     for artist_name, tracks in data['artists'].items():
         # Add the artist's name to each track during merging
         all_tracks.extend([
-            {'artist': artist_name.replace('_', ' '), 'song': t['song'], 'year': t['year']}
+            {'artist': artist_name.replace('_', ' '), 'song': t['song'], 'year': t['year'], 'awards': t.get('awards', [])}
             for t in tracks
         ])
     
@@ -52,3 +66,8 @@ if playlist_data:
     # A random song was selected:
     print("A random song was selected:")
     print(json.dumps(random_track, indent=4, ensure_ascii=False))
+    print("---------------------------------")
+
+    award_status = check_award_status(random_track)
+    print(award_status)
+    print("---------------------------------")
