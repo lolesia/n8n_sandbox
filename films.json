@@ -1,0 +1,85 @@
+{
+    "directors": {
+        "Stanley_Kubrick": [
+            {
+                "film": "2001: A Space Odyssey",
+                "year": 1968,
+                "awards": ["Academy Award (Visual Effects)", "BAFTA"]
+            },
+            {
+                "film": "A Clockwork Orange",
+                "year": 1971,
+                "awards": ["NYFCC Award (Best Film)", "Hugo Award"]
+            },
+            {
+                "film": "The Shining",
+                "year": 1980,
+                "awards": []
+            },
+            {
+                "film": "Full Metal Jacket",
+                "year": 1987,
+                "awards": ["BAFTA Nomination"]
+            },
+            {
+                "film": "Dr. Strangelove",
+                "year": 1964,
+                "awards": ["BAFTA (Best Film)", "Academy Award Nomination"]
+            }
+        ],
+        "Kevin_Smith": [
+            {
+                "film": "Clerks",
+                "year": 1994,
+                "awards": ["Sundance Filmmakers Trophy"]
+            },
+            {
+                "film": "Mallrats",
+                "year": 1995,
+                "awards": []
+            },
+            {
+                "film": "Chasing Amy",
+                "year": 1997,
+                "awards": ["Independent Spirit Award (Best Screenplay)"]
+            },
+            {
+                "film": "Dogma",
+                "year": 1999,
+                "awards": []
+            },
+            {
+                "film": "Jay and Silent Bob Strike Back",
+                "year": 2001,
+                "awards": []
+            }
+        ],
+        "Luc_Besson": [
+            {
+                "film": "Léon: The Professional",
+                "year": 1994,
+                "awards": ["César Award Nomination"]
+            },
+            {
+                "film": "The Fifth Element",
+                "year": 1997,
+                "awards": ["César Award (Best Director)", "Cannes Film Festival"]
+            },
+            {
+                "film": "La Femme Nikita",
+                "year": 1990,
+                "awards": ["César Award Nomination"]
+            },
+            {
+                "film": "Atlantis",
+                "year": 1991,
+                "awards": []
+            },
+            {
+                "film": "Lucy",
+                "year": 2014,
+                "awards": []
+            }
+        ]
+    }
+}
