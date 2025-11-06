@@ -38,3 +38,14 @@ The input file **must** contain a top-level `"artists"` key, where values are li
         ]
     }
 }
+
+### Running the Script
+
+You must now specify the data file name when running the script using command-line arguments.
+
+| Data Type | Command |
+| :--- | :--- |
+| **Songs (Default)** | `python your_script_name.py songs.json` |
+| **Films** | `python your_script_name.py films.json` |
+
+If no file is specified, the script attempts to use the hardcoded default (e.g., `songs.json`).
