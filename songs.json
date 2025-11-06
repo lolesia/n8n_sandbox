@@ -65,6 +65,50 @@
                 "song": "Another One Bites the Dust",
                 "year": 1980
             }
+            ],
+            "Pink_Floyd": [
+            {
+                "song": "Wish You Were Here",
+                "year": 1975
+            },
+            {
+                "song": "Another Brick In the Wall, Pt.2",
+                "year": 1979
+            },
+            {
+                "song": "Comfortably Numb",
+                "year": 1979
+            },
+            {
+                "song": "Money",
+                "year": 1973
+            },
+            {
+                "song": "Time",
+                "year": 1973
+            }
+            ],
+        "Deep_Purple": [
+            {
+                "song": "Smoke On The Water",
+                "year": 1972
+            },
+            {
+                "song": "Highway Star",
+                "year": 1972
+            },
+            {
+                "song": "Child In Time",
+                "year": 1970
+            },
+            {
+                "song": "Hush",
+                "year": 1968
+            },
+            {
+                "song": "Perfect Strangers",
+                "year": 1984
+            }
             ]
         }
     }
