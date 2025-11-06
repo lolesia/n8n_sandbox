@@ -7,13 +7,13 @@
                 "awards": ["Academy Award (Visual Effects)", "BAFTA"]
             },
             {
-                "film": "A Clockwork Orange",
+                "film": "A Clockwork ",
                 "year": 1971,
                 "awards": ["NYFCC Award (Best Film)", "Hugo Award"]
             },
             {
                 "film": "The Shining",
-                "year": 1980,
+                "year": 1985,
                 "awards": []
             },
             {
@@ -36,7 +36,7 @@
             {
                 "film": "Mallrats",
                 "year": 1995,
-                "awards": []
+                "awards": ["Best Screenplay"]
             },
             {
                 "film": "Chasing Amy",
@@ -79,6 +79,60 @@
                 "film": "Lucy",
                 "year": 2014,
                 "awards": []
+            }
+        ],
+        "Quentin_Tarantino": [
+            {
+                "film": "Pulp Fiction",
+                "year": 1994,
+                "awards": ["Palme d'Or", "Academy Award (Screenplay)", "BAFTA (Screenplay)"]
+            },
+            {
+                "film": "Reservoir Dogs",
+                "year": 1992,
+                "awards": []
+            },
+            {
+                "film": "Kill Bill: Vol. 1",
+                "year": 2003,
+                "awards": []
+            },
+            {
+                "film": "Inglourious Basterds",
+                "year": 2009,
+                "awards": ["Golden Globe Nomination"]
+            },
+            {
+                "film": "Django Unchained",
+                "year": 2012,
+                "awards": ["Academy Award (Screenplay)", "Golden Globe (Screenplay)"]
+            }
+        ],
+        "Christopher_Nolan": [
+            {
+                "film": "Inception",
+                "year": 2010,
+                "awards": ["Academy Award Nomination (Film, Screenplay)"]
+            },
+            {
+                "film": "The Dark Knight",
+                "year": 2008,
+                "awards": ["Academy Award Nomination (Screenplay)"]
+            },
+            {
+                "film": "Memento",
+                "year": 2000,
+                "awards": ["Academy Award Nomination (Screenplay)", "Independent Spirit Award"]
+            },
+            {
+                "film": "Interstellar",
+                "year": 2014,
+                "awards": ["Academy Award (Visual Effects)"]
+            },
+            {
+                "film": "Oppenheimer",
+                "year": 2023,
+                "awards": ["Academy Award (Best Director, Best Film)", "Golden Globe (Best Director)"]
             }
         ]
     }

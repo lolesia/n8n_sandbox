@@ -4,7 +4,7 @@
             {
                 "song": "Imagine",
                 "year": 1971,
-                "awards": ["Grammy Hall of Fame", "Rock and Roll Hall of Fame's 500 Songs"]
+                "awards": ["Rock and Roll Hall of Fame's 500 Songs"]
             },
             {
                 "song": "Woman",
@@ -30,8 +30,8 @@
             "Michael_Jackson": [
             {
                 "song": "Thriller",
-                "year": 1982,
-                "awards": ["Grammy Award", "MTV VMA", "Diamond certification"]
+                "year": 1985,
+                "awards": ["Grammy Award", "MTV VMA", "Diamond certification", "BRIT Award"]
             },
             {
                 "song": "Billie Jean",
